@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 9995f88f44b3a3246965cd14991320ae
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 4622260718900017647
+    second: shreddder_knife1|Shredder Gear Back rearAction.000
+  - first:
+      74: -8303980708986830014
+    second: shreddder_knife1|Shredder Gear Back rearAction.001
+  - first:
+      74: -8527186416595693664
+    second: shreddder_knife1|Shredder Gear Front RearAction.001
+  - first:
+      74: -5272134198134847928
+    second: shreddder_knife1|Shredder Gear Front RearAction.002
+  - first:
+      74: 8059574355715653701
+    second: shreddder_knife1|Shredder Gear MiddleAction.000
+  - first:
+      74: 4772261944660191287
+    second: shreddder_knife1|Shredder Gear MiddleAction.001
+  - first:
+      74: 1907169356958374553
+    second: shreddder_knife1|Shredder Gear MiddleAction.002
+  - first:
+      74: 2039203321480848194
+    second: shreddder_knife1|Shredder Gear MiddleAction.003
+  - first:
+      74: 6095031323451709433
+    second: shredder_knife2|Shredder Gear Back rearAction.000
+  - first:
+      74: -8725812656626394116
+    second: shredder_knife2|Shredder Gear Back rearAction.001
+  - first:
+      74: -6744210408390469571
+    second: shredder_knife2|Shredder Gear Front RearAction.001
+  - first:
+      74: -7267859577758653926
+    second: shredder_knife2|Shredder Gear Front RearAction.002
+  - first:
+      74: -6254033870816951550
+    second: shredder_knife2|Shredder Gear MiddleAction.000
+  - first:
+      74: -1271387348648053389
+    second: shredder_knife2|Shredder Gear MiddleAction.001
+  - first:
+      74: 41915752171434598
+    second: shredder_knife2|Shredder Gear MiddleAction.002
+  - first:
+      74: 62643714437782992
+    second: shredder_knife2|Shredder Gear MiddleAction.003
+  - first:
+      74: 6244793244753926795
+    second: shreddder_knife1.001|Shredder Gear Back rearAction.000
+  - first:
+      74: 7483719746699599724
+    second: shreddder_knife1.001|Shredder Gear Back rearAction.001
+  - first:
+      74: 8780222866650401073
+    second: shreddder_knife1.001|Shredder Gear Front RearAction.001
+  - first:
+      74: -2467678016437518449
+    second: shreddder_knife1.001|Shredder Gear Front RearAction.002
+  - first:
+      74: 8825386133044083788
+    second: shreddder_knife1.001|Shredder Gear MiddleAction.000
+  - first:
+      74: -5425298299544853138
+    second: shreddder_knife1.001|Shredder Gear MiddleAction.001
+  - first:
+      74: 9209659644377288356
+    second: shreddder_knife1.001|Shredder Gear MiddleAction.002
+  - first:
+      74: -7596770078102211900
+    second: shreddder_knife1.001|Shredder Gear MiddleAction.003
+  - first:
+      74: -3647715936557192730
+    second: shredder_knife2.001|Shredder Gear Back rearAction.000
+  - first:
+      74: -6396678246353204516
+    second: shredder_knife2.001|Shredder Gear Back rearAction.001
+  - first:
+      74: 1262963264567869104
+    second: shredder_knife2.001|Shredder Gear Front RearAction.001
+  - first:
+      74: -4494696700087456066
+    second: shredder_knife2.001|Shredder Gear Front RearAction.002
+  - first:
+      74: 1651825454061037681
+    second: shredder_knife2.001|Shredder Gear MiddleAction.000
+  - first:
+      74: 4347643126904300723
+    second: shredder_knife2.001|Shredder Gear MiddleAction.001
+  - first:
+      74: 7420149676997456428
+    second: shredder_knife2.001|Shredder Gear MiddleAction.002
+  - first:
+      74: -2903962865084768277
+    second: shredder_knife2.001|Shredder Gear MiddleAction.003
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

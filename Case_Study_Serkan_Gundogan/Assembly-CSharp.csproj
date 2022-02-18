@@ -75,6 +75,9 @@
     <Compile Include="Assets\Joystick Pack\Examples\JoystickPlayerExample.cs" />
     <Compile Include="Assets\Scripts\MouseRaycast.cs" />
     <Compile Include="Assets\Scripts\PlajChibiObsControl.cs" />
+    <Compile Include="Assets\Scripts\MoneyGrabber.cs" />
+    <Compile Include="Assets\Scripts\MoneyHolderCheck.cs" />
+    <Compile Include="Assets\Scripts\BigZoneController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -8,6 +8,12 @@ TagManager:
   - Pickup
   - CannonBall
   - Ring
+  - Money
+  - LittleMoney
+  - BigMoney
+  - BigZone
+  - MidZone
+  - SmallZone
   layers:
   - Default
   - TransparentFX
