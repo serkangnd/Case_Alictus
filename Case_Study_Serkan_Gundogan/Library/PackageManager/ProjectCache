@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637807155358456049
-    m_Hash: 1955672638
+      ticks: 637807454414014617
+    m_Hash: 364758118
   m_LockFileStatus:
     m_FilePath: C:/Users/serka/Documents/GitHub/Case_Alictus/Case_Study_Serkan_Gundogan/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637807155521454138
-    m_Hash: 3962179228
+      ticks: 637807454414019692
+    m_Hash: 2585620433
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
