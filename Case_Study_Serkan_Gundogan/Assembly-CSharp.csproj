@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\DrawProjection.cs" />
     <Compile Include="Assets\Scripts\AiSensor.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Scripts\DraggingObjects.cs" />
     <Compile Include="Assets\Scripts\PlayerIntegration.cs" />
     <Compile Include="Assets\Joystick Pack\Examples\JoystickSetterExample.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
@@ -72,6 +73,8 @@
     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
     <Compile Include="Assets\Joystick Pack\Examples\JoystickPlayerExample.cs" />
+    <Compile Include="Assets\Scripts\MouseRaycast.cs" />
+    <Compile Include="Assets\Scripts\PlajChibiObsControl.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
