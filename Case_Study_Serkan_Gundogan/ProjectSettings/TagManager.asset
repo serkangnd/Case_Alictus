@@ -14,6 +14,7 @@ TagManager:
   - BigZone
   - MidZone
   - SmallZone
+  - Trash
   layers:
   - Default
   - TransparentFX
