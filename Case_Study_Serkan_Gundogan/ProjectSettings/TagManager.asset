@@ -15,6 +15,7 @@ TagManager:
   - MidZone
   - SmallZone
   - Trash
+  - WaterHit
   layers:
   - Default
   - TransparentFX
