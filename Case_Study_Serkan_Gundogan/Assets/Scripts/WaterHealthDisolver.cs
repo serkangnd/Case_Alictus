@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 
 public class WaterHealthDisolver : MonoBehaviour
@@ -13,6 +14,9 @@ public class WaterHealthDisolver : MonoBehaviour
     private float currentDissolveValue = 1f;
 
     public GameObject endGameParticleObj;
+    public Slider sliderHealth;
+    public GameObject healthBarUI;
+    public GameObject nextLevelScreen;
 
     private void OnEnable()
     {
@@ -38,7 +42,14 @@ public class WaterHealthDisolver : MonoBehaviour
             {
                 child.GetComponent<ParticleSystem>().Play();
             }
+
+            healthBarUI.SetActive(false);
+            Destroy(this.gameObject);
+            nextLevelScreen.SetActive(true);
         }
+        
+        sliderHealth.value = targetDissolveValue;
+        
     }
 
     void HandleHealthChanged(int health, int maxHealth)
