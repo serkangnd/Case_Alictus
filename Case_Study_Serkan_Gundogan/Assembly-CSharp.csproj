@@ -59,6 +59,7 @@
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Base\Joystick.cs" />
     <Compile Include="Assets\Scripts\ZoneChecker.cs" />
+    <Compile Include="Assets\Scripts\TrashPatrol.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
     <Compile Include="Assets\Scripts\CannonController.cs" />
@@ -83,7 +84,7 @@
     <Compile Include="Assets\Scripts\WaterHealth.cs" />
     <Compile Include="Assets\Scripts\VacummMovement.cs" />
     <Compile Include="Assets\Scripts\MouseRaycast.cs" />
-    <Compile Include="Assets\Scripts\TrashPatrol.cs" />
+    <Compile Include="Assets\Scripts\NextLevelScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
